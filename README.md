@@ -2,6 +2,7 @@
 
 I am a 2nd Year Computer Science Student at the Univerity of Manchester. I'm interested in a number of different things and am usually reading a book and experimenting with something new.
 
+You can visit my website at alyscript.github.io if you are interested and you can always reach out to me on Linkedin.
 <!--
 **AlyScript/AlyScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
