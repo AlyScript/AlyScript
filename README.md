@@ -4,8 +4,21 @@
 
 # 🫡 take a look around if you are interested
 ```yaml
+
+location: United Kingdom
+education:
+  [
+    "Computer Science at The University of Manchester"
+  ]
+
+  interests:
+  [
+    "anything that can be broken"
+  ]
+
 i am fairly "language agnostic"... so i won't list my "tech stack" here (because there isn't one)
-also, i like to learn by undoing: that is, taking things apart and breaking them so that i see how they work. Then i like to build my own!
+
+also, i like to learn by undoing: that is, taking things apart and breaking them so that i see how they work
 ```
 <!--
 **AlyScript/AlyScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
