@@ -3,7 +3,7 @@
 </p>
 
 ```bash
-$ whoami
+adam@readme:~$ whoami
 ```
 
 ```yaml
