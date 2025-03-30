@@ -19,9 +19,11 @@ education:
     "anything that can be broken"
   ]
 
-i am fairly "language agnostic"... so i won't list my "tech stack" here (because there isn't one)
+  motto:
+  [
+    "learn by undoing"
+  ]
 
-also, i like to learn by undoing: that is, taking things apart and breaking them so that i see how they work
 ```
 <!--
 **AlyScript/AlyScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
