@@ -19,11 +19,6 @@ education:
     "anything that can be broken"
   ]
 
-  motto:
-  [
-    "learn by undoing"
-  ]
-
 ```
 <!--
 **AlyScript/AlyScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
